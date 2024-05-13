@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header h3{
+    flex:1 0 20%;
+}
+
+header nav{
+    flex:1 0 80%;
+    text-align: right;
+}
+section{
+
+    margin-top: 15%;
+    text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     width: 960px;
+}
+section button{
+    background-color:rgba(107, 5, 107, 0.76);
+    color:white
+}
+.hide{
+    display: none;
+}
