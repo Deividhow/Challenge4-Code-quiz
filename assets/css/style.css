@@ -12,7 +12,6 @@ header nav{
     text-align: right;
 }
 section{
-
     margin-top: 15%;
     text-align: center;
      margin-left: auto;
@@ -21,7 +20,7 @@ section{
 }
 section button{
     background-color:rgba(107, 5, 107, 0.76);
-    color:white
+    color:white;
 }
 .hide{
     display: none;
